@@ -1,0 +1,5 @@
+Since I can't upload the screen shot, I get the following messages briefly (3 seconds) after I right click a file and select "Shred With Bleachbit". 
+Bleachbit then closes without accomplishing the shredding. This function had been working before upgrading to version 4.2. Help or thoughts please? Thanks.
+Traceback (most recent call last):
+File "bleachbit\Worker.pyo",line 260,in run 
+File "bleachbit\Worker.pyo",line 336,in run_operations
